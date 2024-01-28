@@ -3,9 +3,6 @@ title: Adnan Azmat
 general_email: adnanazmat42@gmail.com
 academic_email: adnan002@e.ntu.edu.sg
 
-#description: > # this means to ignore newlines until "baseurl:"
-#  "We are such stuff as dreams are made on, and our little life is rounded with a sleep." 
-
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://adnan-azmat.github.io" # the base hostname & protocol for your site
@@ -13,8 +10,6 @@ url: "https://adnan-azmat.github.io" # the base hostname & protocol for your sit
 twitter_username: quizadnan
 github_username: adnan-azmat
 linkedin_username: adnan-azmat-496000153
-# facebook_username: 
-# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
 markdown: kramdown
