@@ -1,17 +1,14 @@
 - title: "Home"
   href: "/"
   
-- title: "Research"
-  href: "/research/"
+- title: "Experience"
+  href: "/experience/"
 
 - title: "Projects"
   href: "/projects/"
 
-- title: "Positions"
-  href: "/positions/"
-
-- title: "Extracurriculars"
-  href: "/extracurriculars/"
+- title: "Honours"
+  href: "/honours/"
 
 - title: "CV"
   href: "/cv/"
