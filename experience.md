@@ -4,7 +4,7 @@ permalink: /experience/
 title: Experience
 ---
 
-### Research Scholar, [Speech and Language Lab](https://personal.ntu.edu.sg/aseschng/speechLab_intro.html), NTU Singapore <span style="float: right; font-size: 14px;">Sep 2023 - Present</span>
+### Research Engineer, [Speech and Language Lab](https://personal.ntu.edu.sg/aseschng/speechLab_intro.html), NTU Singapore <span style="float: right; font-size: 14px;">Sep 2023 - Present</span>
 
 - Under the guidance of Prof. Chng Eng Siong, my research subject is speaker diarization, specifically focusing on enhancing Target-Speaker Voice Activity Detection (TS-VAD) model.
 
